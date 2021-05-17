@@ -9,6 +9,6 @@ Reduxチュートリアルをするためのリポジトリです。
 
 ## Reduxチュートリアル
 - [Redux Tutorials Index](https://redux.js.org/tutorials/index)
-- [今ここ](https://redux.js.org/tutorials/essentials/part-3-data-flow)
+- [Next👉](https://redux.js.org/tutorials/essentials/part-4-using-data#editing-posts)
 
 ## その他参考
