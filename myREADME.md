@@ -9,6 +9,6 @@ Reduxチュートリアルをするためのリポジトリです。
 
 ## Reduxチュートリアル
 - [Redux Tutorials Index](https://redux.js.org/tutorials/index)
-- [Next👉](https://redux.js.org/tutorials/essentials/part-4-using-data#editing-posts)
+- [Next👉](https://redux.js.org/tutorials/essentials/part-4-using-data#preparing-action-payloads)
 
 ## その他参考
